@@ -69,6 +69,7 @@ The dataset was exported from Drug Shortages Canada's historical record feature;
 
 - Overcome API limitations by directly exporting data from the website.
 - Address class imbalances and refine hyperparameter tuning techniques.
+- Use different hyperparameter tuning techniques to redistribute class weights.
 - Future goals include building a predictive model that can more accurately anticipate drug shortages and creating an interactive application for business integration.
 
 
