@@ -28,4 +28,6 @@ The dataset was exported from Drug Shortages Canada's historical record feature;
 - Estimated End Date
 
 ## Exploratory Data Analysis 
-  
+
+![Shortages Count by their Status](https://imgur.com/a/EQI97Dc)
+
